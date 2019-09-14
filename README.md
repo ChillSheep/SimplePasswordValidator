@@ -1,5 +1,4 @@
 # Simple C++ Password validator
- - Only 42 lines of code
 Rules are:
 - Minimum length is 8
 - Maximum length is 32
